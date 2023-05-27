@@ -1,0 +1,34 @@
+{
+  "fechasSalidas": [
+    {
+      "id": 1,
+      "fechaSalida": "2017-05-01",
+      "itinerarios": [
+        {
+          "id": 1,
+          "horaSalida": "08:00",
+          "horaLlegada": "10:00",
+          "duracion": "2h",
+          "escalas": "Sin escalas"
+        }
+      ]
+    }
+  ],
+  "tiposMaletas": [
+    {
+      "id": 1,
+      "tipoMaleta": "1 Objeto personal",
+      "precio": 12500
+    },
+    {
+      "id": 2,
+      "tipoMaleta": "Equipaje de mano",
+      "precio": 24500
+    },
+    {
+      "id": 3,
+      "tipoMaleta": "Equipaje 25kg",
+      "precio": 40000
+    }
+  ]
+}
