@@ -6,9 +6,9 @@
       "itinerarios": [
         {
           "id": 1,
-          "horaSalida": "08:00",
-          "horaLlegada": "10:00",
-          "duracion": "2h",
+          "horaSalida": "08:00 AM",
+          "horaLlegada": "10:00 AM",
+          "duracion": "2 horas",
           "escalas": "Sin escalas"
         }
       ]
