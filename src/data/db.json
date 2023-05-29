@@ -11,6 +11,23 @@
           "duracion": "2 horas",
           "escalas": "Sin escalas"
         }
+      ],
+      "tiposMaletas": [
+        {
+          "id": 1,
+          "tipoMaleta": "1 Objeto personal",
+          "precio": 12500
+        },
+        {
+          "id": 2,
+          "tipoMaleta": "Equipaje de mano",
+          "precio": 24500
+        },
+        {
+          "id": 3,
+          "tipoMaleta": "Equipaje 25kg",
+          "precio": 40000
+        }
       ]
     }
   ],
