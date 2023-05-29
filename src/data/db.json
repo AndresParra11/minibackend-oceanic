@@ -9,50 +9,50 @@
           "horaSalida": "08:00 AM",
           "horaLlegada": "10:00 AM",
           "duracion": "2 horas",
-          "escalas": "Sin escalas"
+          "escalas": "Sin escalas",
+          "tiposMaletas": [
+            {
+              "id": 1,
+              "tipoMaleta": "1 Objeto personal",
+              "precio": 12500
+            },
+            {
+              "id": 2,
+              "tipoMaleta": "Equipaje de mano",
+              "precio": 24500
+            },
+            {
+              "id": 3,
+              "tipoMaleta": "Equipaje 25kg",
+              "precio": 40000
+            }
+          ]
         },
         {
           "id": 2,
           "horaSalida": "11:15 AM",
           "horaLlegada": "13:15 AM",
           "duracion": "2 horas",
-          "escalas": "Sin escalas"
-        }
-      ],
-      "tiposMaletas": [
-        {
-          "id": 1,
-          "tipoMaleta": "1 Objeto personal",
-          "precio": 12500
-        },
-        {
-          "id": 2,
-          "tipoMaleta": "Equipaje de mano",
-          "precio": 24500
-        },
-        {
-          "id": 3,
-          "tipoMaleta": "Equipaje 25kg",
-          "precio": 40000
+          "escalas": "Sin escalas",
+          "tiposMaletas": [
+            {
+              "id": 4,
+              "tipoMaleta": "1 Objeto personal",
+              "precio": 12500
+            },
+            {
+              "id": 5,
+              "tipoMaleta": "Equipaje de mano",
+              "precio": 24500
+            },
+            {
+              "id": 6,
+              "tipoMaleta": "Equipaje 25kg",
+              "precio": 40000
+            }
+          ]
         }
       ]
-    }
-  ],
-  "tiposMaletas": [
-    {
-      "id": 1,
-      "tipoMaleta": "1 Objeto personal",
-      "precio": 12500
-    },
-    {
-      "id": 2,
-      "tipoMaleta": "Equipaje de mano",
-      "precio": 24500
-    },
-    {
-      "id": 3,
-      "tipoMaleta": "Equipaje 25kg",
-      "precio": 40000
     }
   ]
 }
