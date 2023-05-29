@@ -2,7 +2,7 @@
   "fechasSalidas": [
     {
       "id": 1,
-      "fechaSalida": "2017-05-01",
+      "fechaSalida": "dom, 14 may 2023",
       "itinerarios": [
         {
           "id": 1,
@@ -14,17 +14,17 @@
             {
               "id": 1,
               "tipoMaleta": "1 Objeto personal",
-              "precio": 12500
+              "precio": 40000
             },
             {
               "id": 2,
               "tipoMaleta": "Equipaje de mano",
-              "precio": 24500
+              "precio": 65000
             },
             {
               "id": 3,
               "tipoMaleta": "Equipaje 25kg",
-              "precio": 40000
+              "precio": 80000
             }
           ]
         },
@@ -38,17 +38,71 @@
             {
               "id": 4,
               "tipoMaleta": "1 Objeto personal",
-              "precio": 12500
+              "precio": 40000
             },
             {
               "id": 5,
               "tipoMaleta": "Equipaje de mano",
-              "precio": 24500
+              "precio": 65000
             },
             {
               "id": 6,
               "tipoMaleta": "Equipaje 25kg",
+              "precio": 80000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fechaSalida": "sáb, 20 may 2023",
+      "itinerarios": [
+        {
+          "id": 1,
+          "horaSalida": "14:00 PM",
+          "horaLlegada": "16:00 AM",
+          "duracion": "2 horas",
+          "escalas": "Sin escalas",
+          "tiposMaletas": [
+            {
+              "id": 1,
+              "tipoMaleta": "1 Objeto personal",
               "precio": 40000
+            },
+            {
+              "id": 2,
+              "tipoMaleta": "Equipaje de mano",
+              "precio": 65000
+            },
+            {
+              "id": 3,
+              "tipoMaleta": "Equipaje 25kg",
+              "precio": 80000
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "horaSalida": "20:15 PM",
+          "horaLlegada": "22:15 PM",
+          "duracion": "2 horas",
+          "escalas": "Sin escalas",
+          "tiposMaletas": [
+            {
+              "id": 4,
+              "tipoMaleta": "1 Objeto personal",
+              "precio": 40000
+            },
+            {
+              "id": 5,
+              "tipoMaleta": "Equipaje de mano",
+              "precio": 65000
+            },
+            {
+              "id": 6,
+              "tipoMaleta": "Equipaje 25kg",
+              "precio": 80000
             }
           ]
         }
